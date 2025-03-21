@@ -1,16 +1,16 @@
 Vendas por Linha de Produto (Unidades),Vendas por Linha de Produto (Unidades),Vendas por Linha de Produto (Valor),Vendas por Linha de Produto (Valor),Média de Vendas por Linha de Produto,Média de Vendas por Linha de Produto,Vendas por Filial (Unidades),Vendas por Filial (Unidades),Vendas por Filial (Valor),Vendas por Filial (Valor),Média de Vendas por Filial,Média de Vendas por Filial,Vendas por Tipo de Cliente (Unidades),Vendas por Tipo de Cliente (Unidades),Vendas por Tipo de Cliente (Valor),Vendas por Tipo de Cliente (Valor),Vendas Diárias,Vendas Diárias,Vendas Mensais,Vendas Mensais,Vendas por Hora,Vendas por Hora,Métodos de Pagamento,Métodos de Pagamento,Vendas por Método de Pagamento,Vendas por Método de Pagamento,Distribuição de Gênero,Distribuição de Gênero,Avaliação Média por Linha de Produto,Avaliação Média por Linha de Produto,Avaliação Média por Filial,Avaliação Média por Filial,Satisfação do Cliente,Satisfação do Cliente
 Linha de Produto,Total de Vendas,Linha de Produto,Total de Vendas,Linha de produto,Média de vendas,Filial,Total de Vendas,Filial,Total de Vendas,Filial,Média de vendas,Tipo de Cliente,Total de Vendas,Tipo de Cliente,Total de Vendas,Data,Total de Vendas,Mês,Total de Vendas,Hora,Total de Vendas,Método de Pagamento,Número de Transações,Método de Pagamento,Total de Vendas,Gênero,Número de Clientes,Linha de Produto,Média de Avaliação,Filial,Avaliação Média,Client Satisfaction,count
-Health and beauty,854.0,Electronic accessories,54337.5315,Electronic accessories,319.6325382352941,A,1859.0,A,106200.3705,A,312.35403088235296,Member,2785.0,Member,164223.444,2019-01-01,4745.181,2019-01,116291.868,10.0,31421.481,Ewallet,345.0,Cash,112206.57,Female,501.0,Electronic accessories,6.924705882352941,A,7.027058823529411,Satisfeitos,685.0
-Electronic accessories,971.0,Fashion accessories,54305.895,Fashion accessories,305.089297752809,C,1831.0,B,106197.672,B,319.8725060240964,Normal,2725.0,Normal,158743.305,2019-01-02,1945.5030000000002,2019-02,97219.374,11.0,30377.3295,Cash,344.0,Credit card,100767.072,Male,499.0,Fashion accessories,7.0292134831460675,B,6.8180722891566266,Insatisfeitos,315.0
-Home and lifestyle,911.0,Food and beverages,56144.844,Food and beverages,322.6715172413793,B,1820.0,C,110568.7065,C,337.0997149390244,,,,,2019-01-03,2078.1285,2019-03,109455.507,12.0,26065.8825,Credit card,311.0,Ewallet,109993.107,,,Food and beverages,7.113218390804598,C,7.072865853658537,,
-Sports and travel,920.0,Health and beauty,49193.739,Health and beauty,323.6430197368421,,,,,,,,,,,2019-01-04,1623.6885,,,13.0,34723.227,,,,,,,Health and beauty,7.003289473684211,,,,
-Food and beverages,952.0,Home and lifestyle,53861.913,Home and lifestyle,336.63695625,,,,,,,,,,,2019-01-05,3536.6835,,,14.0,30828.399,,,,,,,Home and lifestyle,6.8375,,,,
-Fashion accessories,902.0,Sports and travel,55122.8265,Sports and travel,332.0652198795181,,,,,,,,,,,2019-01-06,3614.205,,,15.0,31179.5085,,,,,,,Sports and travel,6.916265060240963,,,,
-,,,,,,,,,,,,,,,,2019-01-07,2834.2439999999997,,,16.0,25226.3235,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,2019-01-08,5293.7325,,,17.0,24445.218,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,2019-01-09,3021.3435,,,18.0,26030.34,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,2019-01-10,3560.9489999999996,,,19.0,39699.513,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,2019-01-11,2114.9625,,,20.0,22969.527,,,,,,,,,,,,
+Health and beauty,854.0,Electronic accessories,54337.5315,Electronic accessories,319.6325382352941,A,1859.0,A,106200.3705,A,312.35403088235296,Member,2785.0,Member,164223.444,2019-01-01,4745.181,2019-01,116291.868,10:00,31421.481,Ewallet,345.0,Cash,112206.57,Female,501.0,Electronic accessories,6.924705882352941,A,7.027058823529411,Satisfeitos,685.0
+Electronic accessories,971.0,Fashion accessories,54305.895,Fashion accessories,305.089297752809,C,1831.0,B,106197.672,B,319.8725060240964,Normal,2725.0,Normal,158743.305,2019-01-02,1945.5030000000002,2019-02,97219.374,11:00,30377.3295,Cash,344.0,Credit card,100767.072,Male,499.0,Fashion accessories,7.0292134831460675,B,6.8180722891566266,Insatisfeitos,315.0
+Home and lifestyle,911.0,Food and beverages,56144.844,Food and beverages,322.6715172413793,B,1820.0,C,110568.7065,C,337.0997149390244,,,,,2019-01-03,2078.1285,2019-03,109455.507,12:00,26065.8825,Credit card,311.0,Ewallet,109993.107,,,Food and beverages,7.113218390804598,C,7.072865853658537,,
+Sports and travel,920.0,Health and beauty,49193.739,Health and beauty,323.6430197368421,,,,,,,,,,,2019-01-04,1623.6885,,,13:00,34723.227,,,,,,,Health and beauty,7.003289473684211,,,,
+Food and beverages,952.0,Home and lifestyle,53861.913,Home and lifestyle,336.63695625,,,,,,,,,,,2019-01-05,3536.6835,,,14:00,30828.399,,,,,,,Home and lifestyle,6.8375,,,,
+Fashion accessories,902.0,Sports and travel,55122.8265,Sports and travel,332.0652198795181,,,,,,,,,,,2019-01-06,3614.205,,,15:00,31179.5085,,,,,,,Sports and travel,6.916265060240963,,,,
+,,,,,,,,,,,,,,,,2019-01-07,2834.2439999999997,,,16:00,25226.3235,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,2019-01-08,5293.7325,,,17:00,24445.218,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,2019-01-09,3021.3435,,,18:00,26030.34,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,2019-01-10,3560.9489999999996,,,19:00,39699.513,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,2019-01-11,2114.9625,,,20:00,22969.527,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,2019-01-12,5184.7635,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,2019-01-13,2451.204,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,2019-01-14,3966.6164999999996,,,,,,,,,,,,,,,,
